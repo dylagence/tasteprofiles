@@ -1,4 +1,4 @@
-# tasteprofiles
+### tasteprofiles ###
 
 [Visit my SVG site here](http://i6.cims.nyu.edu/~dmc680/drawing/asg2/index.html)
 
